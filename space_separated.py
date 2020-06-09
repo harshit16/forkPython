@@ -1,5 +1,7 @@
-"""
+# https://practice.geeksforgeeks.org/problems/space-seperated-python/1/?track=fork-python&batchId=119
 
+"""
+ Write Geeks for Geeks. But wait a minute!! You need to write each word separate by space without using space in string.
 """
 
 #User function Template for python3
